@@ -1,0 +1,93 @@
+{
+  "cycle": "2026-09-01",
+  "periodStart": "2026-09-01",
+  "periodEnd": "2026-09-30",
+  "cycleMode": "monthly",
+  "cycleStartDay": 1,
+  "timezone": "Europe/London",
+  "prizePool": 250,
+  "prizes": [
+    100,
+    60,
+    40,
+    30,
+    20
+  ],
+  "boardSize": 25,
+  "totalWagered": 1349.65,
+  "playerCount": 10,
+  "cacheUpdatedAt": "2026-09-06 18:38:58",
+  "updatedAt": "2026-09-06T18:41:19.434Z",
+  "entries": [
+    {
+      "rank": 1,
+      "masked": "ja****36",
+      "hash": "a828bee42d76cc46",
+      "wagered": 1268.08,
+      "prize": 100
+    },
+    {
+      "rank": 2,
+      "masked": "V**v",
+      "hash": "64c693dfdc722688",
+      "wagered": 31.81,
+      "prize": 60
+    },
+    {
+      "rank": 3,
+      "masked": "ba******uy",
+      "hash": "8b87672f23e043e7",
+      "wagered": 18.01,
+      "prize": 40
+    },
+    {
+      "rank": 4,
+      "masked": "va*********iv",
+      "hash": "3923dd08aee78541",
+      "wagered": 11.55,
+      "prize": 30
+    },
+    {
+      "rank": 5,
+      "masked": "AI****ER",
+      "hash": "9ca7b69f3d205688",
+      "wagered": 7.42,
+      "prize": 20
+    },
+    {
+      "rank": 6,
+      "masked": "er****iv",
+      "hash": "dcd1a71fb5f2aaee",
+      "wagered": 6.57,
+      "prize": 0
+    },
+    {
+      "rank": 7,
+      "masked": "Ke***iv",
+      "hash": "f276d234f09a3433",
+      "wagered": 5.59,
+      "prize": 0
+    },
+    {
+      "rank": 8,
+      "masked": "ly*******nn",
+      "hash": "063130f1707d2fe1",
+      "wagered": 0.53,
+      "prize": 0
+    },
+    {
+      "rank": 9,
+      "masked": "ai**ng",
+      "hash": "b32cd01e87ac844a",
+      "wagered": 0.06,
+      "prize": 0
+    },
+    {
+      "rank": 10,
+      "masked": "le***iv",
+      "hash": "dee54cdff94acb07",
+      "wagered": 0.03,
+      "prize": 0
+    }
+  ]
+}
