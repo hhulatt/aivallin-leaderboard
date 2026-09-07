@@ -3,7 +3,7 @@
 Live at **https://aivallin.com/**
 
 A one-page static site showing a $250 monthly wager leaderboard for Rainbet
-affiliate code **AIVALLIN**. Generated from the Forge Partners leaderboard
+affiliate code **AIV**. Generated from the Forge Partners leaderboard
 template — do not hand-edit, see *Making changes* below.
 
 ## How it works
@@ -33,8 +33,8 @@ The board therefore keeps working if the API is down, and costs nothing to serve
 
 | Setting | Value |
 | --- | --- |
-| Affiliate code | `AIVALLIN` |
-| Referral link | https://rainbet.com?r=aivallin |
+| Affiliate code | `AIV` |
+| Referral link | https://rainbet.com?r=aiv |
 | Prize pool | $250 across 5 places |
 | Split | 1st $100 · 2nd $60 · 3rd $40 · 4th $30 · 5th $20 |
 | Cycle | Calendar month — 1st to the last day of the month |
