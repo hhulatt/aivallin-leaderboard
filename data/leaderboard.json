@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 2331.44,
-  "playerCount": 11,
-  "cacheUpdatedAt": "2026-09-17 02:53:13",
-  "updatedAt": "2026-09-17T02:53:13.520Z",
+  "totalWagered": 2379.91,
+  "playerCount": 13,
+  "cacheUpdatedAt": "2026-09-18 01:04:01",
+  "updatedAt": "2026-09-18T01:04:01.389Z",
   "entries": [
     {
       "rank": 1,
@@ -31,67 +31,81 @@
       "rank": 2,
       "masked": "aivgng",
       "hash": "b32cd01e87ac844a",
-      "wagered": 772.33,
+      "wagered": 772.45,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "Vaiv",
-      "hash": "64c693dfdc722688",
-      "wagered": 31.85,
+      "masked": "noppk12",
+      "hash": "7ae70fd249abec12",
+      "wagered": 42.7,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "bardisaguy",
-      "hash": "8b87672f23e043e7",
-      "wagered": 18.01,
+      "masked": "Vaiv",
+      "hash": "64c693dfdc722688",
+      "wagered": 31.85,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "valkylovesaiv",
-      "hash": "3923dd08aee78541",
-      "wagered": 11.55,
+      "masked": "bardisaguy",
+      "hash": "8b87672f23e043e7",
+      "wagered": 18.01,
       "prize": 20
     },
     {
       "rank": 6,
+      "masked": "valkylovesaiv",
+      "hash": "3923dd08aee78541",
+      "wagered": 11.55,
+      "prize": 0
+    },
+    {
+      "rank": 7,
       "masked": "AIVLOVER",
       "hash": "9ca7b69f3d205688",
       "wagered": 11.21,
       "prize": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "masked": "lyramarlinn",
       "hash": "063130f1707d2fe1",
       "wagered": 8.29,
       "prize": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "masked": "erickaiv",
       "hash": "dcd1a71fb5f2aaee",
       "wagered": 6.57,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "masked": "olligam3r",
+      "hash": "849137d31dab1654",
+      "wagered": 5.63,
+      "prize": 0
+    },
+    {
+      "rank": 11,
       "masked": "KeyxAiv",
       "hash": "f276d234f09a3433",
       "wagered": 5.59,
       "prize": 0
     },
     {
-      "rank": 10,
+      "rank": 12,
       "masked": "lebxaiv",
       "hash": "dee54cdff94acb07",
       "wagered": 0.03,
       "prize": 0
     },
     {
-      "rank": 11,
+      "rank": 13,
       "masked": "slamwhores",
       "hash": "2199b0e337968ece",
       "wagered": 0.01,
