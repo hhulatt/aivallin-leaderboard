@@ -15,31 +15,59 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 3.77,
-  "playerCount": 3,
-  "cacheUpdatedAt": "2026-10-01 03:34:01",
-  "updatedAt": "2026-10-01T03:34:01.177Z",
+  "totalWagered": 301.36,
+  "playerCount": 7,
+  "cacheUpdatedAt": "2026-10-02 02:01:37",
+  "updatedAt": "2026-10-02T02:01:37.178Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "aivgng",
-      "hash": "b32cd01e87ac844a",
-      "wagered": 3.34,
+      "masked": "Deoxaiv",
+      "hash": "b303d85313ec09a4",
+      "wagered": 227.15,
       "prize": 100
     },
     {
       "rank": 2,
-      "masked": "Deoxaiv",
-      "hash": "b303d85313ec09a4",
-      "wagered": 0.43,
+      "masked": "aivgng",
+      "hash": "b32cd01e87ac844a",
+      "wagered": 63.53,
       "prize": 60
     },
     {
       "rank": 3,
+      "masked": "iloveaiv",
+      "hash": "6e1ea09b3e0f23ed",
+      "wagered": 9.39,
+      "prize": 40
+    },
+    {
+      "rank": 4,
+      "masked": "aivaiv",
+      "hash": "eb04ea285e6d6106",
+      "wagered": 0.63,
+      "prize": 30
+    },
+    {
+      "rank": 5,
+      "masked": "jamie836",
+      "hash": "a828bee42d76cc46",
+      "wagered": 0.55,
+      "prize": 20
+    },
+    {
+      "rank": 6,
+      "masked": "noppk12",
+      "hash": "7ae70fd249abec12",
+      "wagered": 0.1,
+      "prize": 0
+    },
+    {
+      "rank": 7,
       "masked": "AIVKIT",
       "hash": "b7f28c470acf00ab",
       "wagered": 0.01,
-      "prize": 40
+      "prize": 0
     }
   ]
 }
