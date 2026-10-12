@@ -15,23 +15,23 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 580.83,
-  "playerCount": 8,
-  "cacheUpdatedAt": "2026-10-11 03:22:41",
-  "updatedAt": "2026-10-11T03:22:41.842Z",
+  "totalWagered": 812.64,
+  "playerCount": 9,
+  "cacheUpdatedAt": "2026-10-12 02:05:33",
+  "updatedAt": "2026-10-12T02:05:33.456Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "Deoxaiv",
-      "hash": "b303d85313ec09a4",
-      "wagered": 322.45,
+      "masked": "aivgng",
+      "hash": "b32cd01e87ac844a",
+      "wagered": 440.5,
       "prize": 100
     },
     {
       "rank": 2,
-      "masked": "aivgng",
-      "hash": "b32cd01e87ac844a",
-      "wagered": 209.12,
+      "masked": "Deoxaiv",
+      "hash": "b303d85313ec09a4",
+      "wagered": 322.83,
       "prize": 60
     },
     {
@@ -71,6 +71,13 @@
     },
     {
       "rank": 8,
+      "masked": "terry0232",
+      "hash": "cd99c87379c853ae",
+      "wagered": 0.04,
+      "prize": 0
+    },
+    {
+      "rank": 9,
       "masked": "AIVKIT",
       "hash": "b7f28c470acf00ab",
       "wagered": 0.02,
