@@ -15,69 +15,76 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 812.64,
-  "playerCount": 9,
-  "cacheUpdatedAt": "2026-10-12 03:45:47",
-  "updatedAt": "2026-10-12T03:45:47.404Z",
+  "totalWagered": 995.91,
+  "playerCount": 10,
+  "cacheUpdatedAt": "2026-10-13 03:22:07",
+  "updatedAt": "2026-10-13T03:22:07.271Z",
   "entries": [
     {
       "rank": 1,
       "masked": "aivgng",
       "hash": "b32cd01e87ac844a",
-      "wagered": 440.5,
+      "wagered": 490.61,
       "prize": 100
     },
     {
       "rank": 2,
       "masked": "Deoxaiv",
       "hash": "b303d85313ec09a4",
-      "wagered": 322.83,
+      "wagered": 322.89,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "iloveaiv",
-      "hash": "6e1ea09b3e0f23ed",
-      "wagered": 42.4,
+      "masked": "5staraiv",
+      "hash": "1585ba2ffd4d965f",
+      "wagered": 132.96,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "aivaiv",
-      "hash": "eb04ea285e6d6106",
-      "wagered": 5.68,
+      "masked": "iloveaiv",
+      "hash": "6e1ea09b3e0f23ed",
+      "wagered": 42.4,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "jamie836",
-      "hash": "a828bee42d76cc46",
-      "wagered": 0.88,
+      "masked": "aivaiv",
+      "hash": "eb04ea285e6d6106",
+      "wagered": 5.82,
       "prize": 20
     },
     {
       "rank": 6,
+      "masked": "jamie836",
+      "hash": "a828bee42d76cc46",
+      "wagered": 0.88,
+      "prize": 0
+    },
+    {
+      "rank": 7,
       "masked": "noppk12",
       "hash": "7ae70fd249abec12",
       "wagered": 0.24,
       "prize": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "masked": "Vaiv",
       "hash": "64c693dfdc722688",
       "wagered": 0.07,
       "prize": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "masked": "terry0232",
       "hash": "cd99c87379c853ae",
       "wagered": 0.04,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "masked": "AIVKIT",
       "hash": "b7f28c470acf00ab",
       "wagered": 0.02,
