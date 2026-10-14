@@ -5,7 +5,7 @@
   "cycleMode": "monthly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
-  "fullUsernames": true,
+  "fullUsernames": false,
   "prizePool": 250,
   "prizes": [
     100,
@@ -15,77 +15,77 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 996.08,
+  "totalWagered": 996.19,
   "playerCount": 10,
-  "cacheUpdatedAt": "2026-10-14 03:04:37",
-  "updatedAt": "2026-10-14T03:04:37.734Z",
+  "cacheUpdatedAt": "2026-10-14 15:50:45",
+  "updatedAt": "2026-10-14T15:50:45.888Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "aivgng",
+      "masked": "ai**ng",
       "hash": "b32cd01e87ac844a",
-      "wagered": 490.7,
+      "wagered": 490.79,
       "prize": 100
     },
     {
       "rank": 2,
-      "masked": "Deoxaiv",
+      "masked": "De***iv",
       "hash": "b303d85313ec09a4",
-      "wagered": 322.89,
+      "wagered": 322.93,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "5staraiv",
+      "masked": "5s****iv",
       "hash": "1585ba2ffd4d965f",
       "wagered": 132.98,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "iloveaiv",
+      "masked": "il****iv",
       "hash": "6e1ea09b3e0f23ed",
       "wagered": 42.4,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "aivaiv",
+      "masked": "ai**iv",
       "hash": "eb04ea285e6d6106",
       "wagered": 5.87,
       "prize": 20
     },
     {
       "rank": 6,
-      "masked": "jamie836",
+      "masked": "ja****36",
       "hash": "a828bee42d76cc46",
       "wagered": 0.88,
       "prize": 0
     },
     {
       "rank": 7,
-      "masked": "noppk12",
+      "masked": "no***12",
       "hash": "7ae70fd249abec12",
       "wagered": 0.24,
       "prize": 0
     },
     {
       "rank": 8,
-      "masked": "Vaiv",
+      "masked": "V**v",
       "hash": "64c693dfdc722688",
       "wagered": 0.07,
       "prize": 0
     },
     {
       "rank": 9,
-      "masked": "terry0232",
+      "masked": "te*****32",
       "hash": "cd99c87379c853ae",
       "wagered": 0.04,
       "prize": 0
     },
     {
       "rank": 10,
-      "masked": "AIVKIT",
+      "masked": "AI**IT",
       "hash": "b7f28c470acf00ab",
       "wagered": 0.02,
       "prize": 0

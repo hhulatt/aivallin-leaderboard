@@ -5,7 +5,7 @@
   "cycleMode": "monthly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
-  "fullUsernames": true,
+  "fullUsernames": false,
   "prizePool": 250,
   "prizes": [
     100,
@@ -17,152 +17,152 @@
   "boardSize": 25,
   "totalWagered": 5407.9,
   "playerCount": 21,
-  "cacheUpdatedAt": "2026-10-01 01:49:17",
-  "updatedAt": "2026-10-01T01:49:17.733Z",
+  "cacheUpdatedAt": "2026-10-14 15:50:45",
+  "updatedAt": "2026-10-14T15:50:46.020Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "aivgng",
+      "masked": "ai**ng",
       "hash": "b32cd01e87ac844a",
       "wagered": 1848.25,
       "prize": 100
     },
     {
       "rank": 2,
-      "masked": "jamie836",
+      "masked": "ja****36",
       "hash": "a828bee42d76cc46",
       "wagered": 1582.98,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "Aiva001",
+      "masked": "Ai***01",
       "hash": "a19e739642dbb2c9",
       "wagered": 556.68,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "Deoxaiv",
+      "masked": "De***iv",
       "hash": "b303d85313ec09a4",
       "wagered": 377.6,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "amemaiv",
+      "masked": "am***iv",
       "hash": "589b53ba25061b3e",
       "wagered": 310.54,
       "prize": 20
     },
     {
       "rank": 6,
-      "masked": "aivaiv",
+      "masked": "ai**iv",
       "hash": "eb04ea285e6d6106",
       "wagered": 289.63,
       "prize": 0
     },
     {
       "rank": 7,
-      "masked": "keefinnit",
+      "masked": "ke*****it",
       "hash": "45a035021913239c",
       "wagered": 202.34,
       "prize": 0
     },
     {
       "rank": 8,
-      "masked": "noppk12",
+      "masked": "no***12",
       "hash": "7ae70fd249abec12",
       "wagered": 66.64,
       "prize": 0
     },
     {
       "rank": 9,
-      "masked": "Vaiv",
+      "masked": "V**v",
       "hash": "64c693dfdc722688",
       "wagered": 31.85,
       "prize": 0
     },
     {
       "rank": 10,
-      "masked": "olligam3r",
+      "masked": "ol*****3r",
       "hash": "849137d31dab1654",
       "wagered": 27.7,
       "prize": 0
     },
     {
       "rank": 11,
-      "masked": "terry0232",
+      "masked": "te*****32",
       "hash": "cd99c87379c853ae",
       "wagered": 24.69,
       "prize": 0
     },
     {
       "rank": 12,
-      "masked": "AIVKIT",
+      "masked": "AI**IT",
       "hash": "b7f28c470acf00ab",
       "wagered": 23.99,
       "prize": 0
     },
     {
       "rank": 13,
-      "masked": "bardisaguy",
+      "masked": "ba******uy",
       "hash": "8b87672f23e043e7",
       "wagered": 18.01,
       "prize": 0
     },
     {
       "rank": 14,
-      "masked": "valkylovesaiv",
+      "masked": "va*********iv",
       "hash": "3923dd08aee78541",
       "wagered": 11.55,
       "prize": 0
     },
     {
       "rank": 15,
-      "masked": "AIVLOVER",
+      "masked": "AI****ER",
       "hash": "9ca7b69f3d205688",
       "wagered": 11.21,
       "prize": 0
     },
     {
       "rank": 16,
-      "masked": "Taco18",
+      "masked": "Ta**18",
       "hash": "9b120d1dd4fb3743",
       "wagered": 8.29,
       "prize": 0
     },
     {
       "rank": 17,
-      "masked": "erickaiv",
+      "masked": "er****iv",
       "hash": "dcd1a71fb5f2aaee",
       "wagered": 6.57,
       "prize": 0
     },
     {
       "rank": 18,
-      "masked": "KeyxAiv",
+      "masked": "Ke***iv",
       "hash": "f276d234f09a3433",
       "wagered": 5.59,
       "prize": 0
     },
     {
       "rank": 19,
-      "masked": "GoatedCowboyyy",
+      "masked": "Go**********yy",
       "hash": "1cae0ee2bfa54417",
       "wagered": 3.75,
       "prize": 0
     },
     {
       "rank": 20,
-      "masked": "Holegirl",
+      "masked": "Ho****rl",
       "hash": "0bdd8e1ab99fad88",
       "wagered": 0.03,
       "prize": 0
     },
     {
       "rank": 21,
-      "masked": "slamwhores",
+      "masked": "sl******es",
       "hash": "2199b0e337968ece",
       "wagered": 0.01,
       "prize": 0
