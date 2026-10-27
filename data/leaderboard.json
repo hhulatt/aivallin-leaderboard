@@ -15,16 +15,16 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 3579.27,
-  "playerCount": 12,
-  "cacheUpdatedAt": "2026-10-26 02:41:35",
-  "updatedAt": "2026-10-26T02:41:35.588Z",
+  "totalWagered": 3638.8,
+  "playerCount": 13,
+  "cacheUpdatedAt": "2026-10-27 01:50:20",
+  "updatedAt": "2026-10-27T01:50:20.413Z",
   "entries": [
     {
       "rank": 1,
       "masked": "ai**ng",
       "hash": "b32cd01e87ac844a",
-      "wagered": 2546.55,
+      "wagered": 2546.86,
       "prize": 100
     },
     {
@@ -36,16 +36,16 @@
     },
     {
       "rank": 3,
-      "masked": "Fe*******83",
-      "hash": "1dc1db3e9ef2b285",
-      "wagered": 232.59,
+      "masked": "5s****iv",
+      "hash": "1585ba2ffd4d965f",
+      "wagered": 233.14,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "5s****iv",
-      "hash": "1585ba2ffd4d965f",
-      "wagered": 179.23,
+      "masked": "Fe*******83",
+      "hash": "1dc1db3e9ef2b285",
+      "wagered": 232.59,
       "prize": 30
     },
     {
@@ -66,39 +66,46 @@
       "rank": 7,
       "masked": "ai**iv",
       "hash": "eb04ea285e6d6106",
-      "wagered": 33.79,
+      "wagered": 33.84,
       "prize": 0
     },
     {
       "rank": 8,
+      "masked": "ol*****3r",
+      "hash": "849137d31dab1654",
+      "wagered": 5.25,
+      "prize": 0
+    },
+    {
+      "rank": 9,
       "masked": "ja****36",
       "hash": "a828bee42d76cc46",
       "wagered": 0.95,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "masked": "no***12",
       "hash": "7ae70fd249abec12",
       "wagered": 0.24,
       "prize": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "masked": "V**v",
       "hash": "64c693dfdc722688",
       "wagered": 0.07,
       "prize": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "masked": "te*****32",
       "hash": "cd99c87379c853ae",
       "wagered": 0.04,
       "prize": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "masked": "AI**IT",
       "hash": "b7f28c470acf00ab",
       "wagered": 0.02,
